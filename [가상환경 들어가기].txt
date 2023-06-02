@@ -1,0 +1,22 @@
+[가상환경 들어가기]
+1. 가상환경 들어오기(c크롬프트)
+2. command 창 띄우기 
+3. cd / 하면은 Python 들어오기
+4. dir 경로파악
+5. cd ml309
+6. dir 경로파악
+7. cd Scripts
+8. activate 로 가상환경 들어오기
+
+[주피터 실행하기]
+1. dir 경로파악
+2. cd .. 
+3. cd code
+4. jupyter notebook 실행
+
+[가상환경 나가기] 
+1. command창에서 ctrl c 실행 
+
+[가상환경에 패키지 설치하기]
+1. 가상환경에 들어오기
+2. pip install 패키지명1 패키지명2 ...
